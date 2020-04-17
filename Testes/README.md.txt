@@ -1,0 +1,1 @@
+A pasta deve ser usada para guardar os testes.
